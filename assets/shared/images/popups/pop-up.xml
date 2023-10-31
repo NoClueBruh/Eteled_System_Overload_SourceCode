@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pop-up.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="click0000" x="945" y="2628" width="886" height="633"/>
+	<SubTexture name="click0001" x="30" y="30" width="875" height="626" frameX="-5" frameY="-3" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0002" x="935" y="30" width="865" height="619" frameX="-10" frameY="-7" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0003" x="1830" y="30" width="857" height="613" frameX="-14" frameY="-10" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0004" x="2717" y="30" width="849" height="608" frameX="-18" frameY="-12" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0005" x="30" y="686" width="843" height="603" frameX="-21" frameY="-15" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0006" x="903" y="686" width="837" height="600" frameX="-24" frameY="-16" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0007" x="1770" y="686" width="835" height="597" frameX="-25" frameY="-18" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0008" x="2635" y="686" width="833" height="596" frameX="-26" frameY="-18" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0009" x="30" y="1319" width="837" height="598" frameX="-27" frameY="-18" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0010" x="30" y="1319" width="837" height="598" frameX="-27" frameY="-18" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0011" x="30" y="1319" width="837" height="598" frameX="-27" frameY="-18" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0012" x="30" y="1319" width="837" height="598" frameX="-27" frameY="-18" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="click0013" x="30" y="1319" width="837" height="598" frameX="-27" frameY="-18" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0000" x="30" y="1319" width="837" height="598" frameX="-24" frameY="-17" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0001" x="897" y="1319" width="847" height="606" frameX="-19" frameY="-13" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0002" x="1774" y="1319" width="857" height="612" frameX="-14" frameY="-10" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0003" x="2661" y="1319" width="864" height="618" frameX="-10" frameY="-7" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0004" x="30" y="1967" width="871" height="624" frameX="-7" frameY="-4" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0005" x="931" y="1967" width="877" height="628" frameX="-4" frameY="-2" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0006" x="1838" y="1967" width="881" height="630" frameX="-2" frameY="-1" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0007" x="2749" y="1967" width="883" height="631" frameX="-1" frameY="-1" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0008" x="30" y="2628" width="885" height="633" frameX="0" frameY="0" frameWidth="886" frameHeight="633"/>
+	<SubTexture name="popup0009" x="945" y="2628" width="886" height="633"/>
+	<SubTexture name="popup0010" x="945" y="2628" width="886" height="633"/>
+	<SubTexture name="popup0011" x="945" y="2628" width="886" height="633"/>
+	<SubTexture name="popup0012" x="945" y="2628" width="886" height="633"/>
+	<SubTexture name="popup0013" x="945" y="2628" width="886" height="633"/>
+</TextureAtlas>
